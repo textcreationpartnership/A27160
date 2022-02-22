@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse concerning popish perjurers in an addresse to the Honorable the Commons of England in Parliament assembled at Oxford.</title>
+            <author>Beane, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27160</idno>
+            <idno type="STC">Wing B1561</idno>
+            <idno type="STC">ESTC R22386</idno>
+            <idno type="EEBO-CITATION">12742345</idno>
+            <idno type="OCLC">ocm 12742345</idno>
+            <idno type="VID">93154</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27160)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93154)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 374:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse concerning popish perjurers in an addresse to the Honorable the Commons of England in Parliament assembled at Oxford.</title>
+                  <author>Beane, Richard.</author>
+               </titleStmt>
+               <extent>[4], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"I do own myself to be the authour of this discourse concerning popish perjuries ... and written by my own hand" (p. [1]) signed: Ric. Beane.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="claim_of_authorship">
+            <pb facs="tcp:93154:1"/>
+            <!-- PDF PAGE 3 -->
+            <p>I Do Own my Self to be the Au<g ref="char:EOLhyphen"/>thour of this Diſcourſe concerning <hi>Popiſh Perjuries,</hi> and that it is every Syllable Penn'd by my Self, and Written with my own Hand,</p>
+            <closer>
+               <signed>Ric. Beane.</signed>
+               <dateline>
+                  <date>
+                     <hi>Mar.</hi> 19. 1680.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:93154:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <p>A DISCOURSE Concerning Popiſh Perjurers IN AN ADDRESSE To the Honorable the <hi>COMMONS</hi> of <hi>England,</hi> In PARLIAMENT Aſſembled AT <hi>OXFORD.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. Brome</hi> at the Signe of the <hi>Gun</hi> in S. <hi>Pauls</hi> Church-yard. 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:93154:2"/>
+            <!-- PDF PAGE 4 -->
+            <pb n="1" facs="tcp:93154:2"/>
+            <!-- PDF PAGE 4 -->
+            <p>YOu have ſo well begun this Seſſion of Parliament, with Reſolutions to pre<g ref="char:EOLhyphen"/>ſerve his Majeſty, the Proteſtant Re<g ref="char:EOLhyphen"/>ligion and Government, and to Search to the bottom, the Plot lately laid, to overthrow all that the Friends to <hi>England,</hi> and the Prote<g ref="char:EOLhyphen"/>ſtant Cauſe, rejoyce all over <hi>Europe,</hi> and the Enemies of both diſpair of accompliſhing their evill purpoſes, which only the expecta<g ref="char:EOLhyphen"/>tion of Diviſions amongſt us gave them hopes to effect.</p>
+            <p>The Addreſſe of both Houſes and his Maje<g ref="char:EOLhyphen"/>ſties ready Condeſcention for Encouragement of further diſcoveries will queſtionleſſe have the deſired end, and lay open new Miſte<g ref="char:EOLhyphen"/>ries of Iniquity, which hitherto have been hidden and concealed in darkneſs.</p>
+            <p>But one thing I will requeſt this great Aſſembly to remember, that when <hi>Lucifer</hi>
+               <pb n="2" facs="tcp:93154:3"/>
+               <!-- PDF PAGE 5 -->fell from Heaven, he drew the Third part of the Starrs along with him; And who can imagine that the Pope, the Earthly <hi>Lucifer,</hi> and his Train will ſuffer here a Total Extir<g ref="char:EOLhyphen"/>pation, without vigorous attempts of like nature? I think it not Impoſſible, that the Kings Proclamation, how well ſoever it was drawn and deſigned, may be ſo managed by them, as to afford them a fair opportunity of doing miſchief.</p>
+            <p>It is but Lately they endeavoured to place their own Vizors upon others faces, of which practiſe none of this Houſe, nor ſcarce any Intelligent Man in <hi>England,</hi> can have been ignorant, or ſo ſoon have forgot<g ref="char:EOLhyphen"/>ten.</p>
+            <p>The Plot put upon the Proteſtants, under the diſtinguiſhing Character of Presbyterians was too bare-faced to gain the belief which they vainly hoped and expected.</p>
+            <p>But what if they ſhould turn the Dice, and make ſome of you, who are Proteſtants, appear as if you were Papiſts? though the Plot
+<pb n="3" facs="tcp:93154:3"/>
+               <!-- PDF PAGE 5 -->will not be believed againſt you as Prote<g ref="char:EOLhyphen"/>ſtants, Yet as Papiſts it will eaſily be be<g ref="char:EOLhyphen"/>lieved if it be Sworn to by Perſons who have been of the ſame profeſſion? and ſuch per<g ref="char:EOLhyphen"/>ſons it is probable may be ſent in by them on pretence of new Converts and freſh Diſ<g ref="char:EOLhyphen"/>coverers. In ſuch a Caſe as this, I would fain know, which way it is poſſible for you ſo accuſed to be Safe. There is juſt Cauſe to fear your Innocency will not be able to pro<g ref="char:EOLhyphen"/>tect you; for your beſt Friends will become your bittereſt Enemies, when once (beſides Treaſon againſt the King and the Govern<g ref="char:EOLhyphen"/>ment) you ſhall have the Brand of Popery, that Mark of the Beaſt, fixed on you.</p>
+            <p>Nay, who knows, but ſome ſuch new Diſcoverers, may accuſe the King himſelf to his People, as well as the People to the King, or to the Parliament? and endeavour the opening of ſuch a breach, as can never be ſtopp'd without horrible Confuſion and Deſtruction?</p>
+            <p>And although it would be the higheſt Non<g ref="char:EOLhyphen"/>ſence in the World, to imagine the King conſenting to a Conſpiracy againſt his own
+<pb n="4" facs="tcp:93154:4"/>
+               <!-- PDF PAGE 6 -->Life, and the higheſt Treaſon as well as nonſence to tax his Majeſty with deſigns of overturning the Government, wherein he is ſafe, and whereof he is Supreme; at the coſt of the Lives of his beſt Subjects; to introduce another kind of Government and Religion, wherein he can neither be Safe nor Supreme, nor have his own Subjects at his Command, any longer then it ſhall pleaſe a Forreign and an Arbitrary Power.</p>
+            <p>Yet what Nonſence will not down with them whoſe Religion is compoſed of little elſe? who teach and embrace an impoſſible piece of Nonſence as the moſt exalted part of their Devotion? And what Treaſon will thoſe men decline who account all Kings Uſurpers whom they have pronounced Heritical? and ſo the Act of deſtroying them at any rate, is no longer Treaſon, but a Zealous, Religious, and Meritorious Duty, for which they are con<g ref="char:EOLhyphen"/>fident to be rewarded with happy Manſions in Heaven.</p>
+            <p>Such men, amongſt us, whoſe avowed Principles, or Practiſes, are Deſtructive to So<g ref="char:EOLhyphen"/>ciety, and Government, our Eſtabliſhed Go<g ref="char:EOLhyphen"/>vernment:
+<pb n="5" facs="tcp:93154:4"/>
+               <!-- PDF PAGE 6 -->(whether they Privately ſwear to a Catholique League; or publickly declare for a <hi>Scotch</hi> Covenant) ought by no means to be endured, but Suppreſs'd, or rather rooted out; yet in the grubbing up theſe ill weeds, great care ſhould be taken, that the tender Corn re<g ref="char:EOLhyphen"/>ceive no prejudice.</p>
+            <p>There is nothing reſtrains men who are ill inclined, from putting into Action their evill Intentions, but fear of Puniſhment, either Here or Hereafter.</p>
+            <p>Suppoſe now, any Jeſuit or Prieſt, or any of their, or other, blind and zealous Votaries, or any Hackney Rogues provided by them, (ſo as they be not publickly known) ſhould be ſecured ten thouſand pound, or other great Reward, to Swear Popery, and High Treaſon againſt any of the Lords or Commons, (whom they think fitteſt to point out for Deſtruction) and come in, as new Diſcoverers, and ſwear poſitively upon Tryals, in open Court, accor<g ref="char:EOLhyphen"/>ding to the Laws of this Land: If ſuch Diſ<g ref="char:EOLhyphen"/>coverers ſhould happen to be detected of Per<g ref="char:EOLhyphen"/>jury at the Tryal, they know the utmoſt of
+<pb n="6" facs="tcp:93154:5"/>
+               <!-- PDF PAGE 7 -->their puniſhment extends not to Life; but if they be not detected, the Partyes ſo accuſed, forfeit at once their Lives and Reputation, their Children or next Kindred loſe the Eſtate; and beſides, there is intailed, on the Names and Families, of ſuch Unfortunate Perſons, a laſting, a perpetual Mark of Shame and In<g ref="char:EOLhyphen"/>famy.</p>
+            <p>Pillory, and Fine, and Impriſonment, are ſmall pains, for this more then barbarous Way of Murdering men, and beggering as well as blaſting whole Families.</p>
+            <p>They who have loſt their ears once in the Pillory, have no more to loſe, and diſgrace touches not where all care of credit is baniſh'd, and native modeſty has given place to Inſolence and Impudence it ſelf; A few rotten eggs, and turneps, and dirt, are the only puniſh<g ref="char:EOLhyphen"/>ment they are liable to ſuffer, and that never more then three times repeated, and two hours a time at the moſt.</p>
+            <p>The Fine is never due, ſo long as the Of<g ref="char:EOLhyphen"/>fenders ſtay in Priſon, and if they have mo<g ref="char:EOLhyphen"/>ney,
+<pb n="7" facs="tcp:93154:5"/>
+               <!-- PDF PAGE 7 -->they may live as plentifully in Priſon as out of it. The Company is ſuch, as lewd per<g ref="char:EOLhyphen"/>ſons are likely to be beſt pleaſed with, and ſo a Priſon cannot be any puniſhment at all, where the Priſoners live in plenty and plea<g ref="char:EOLhyphen"/>ſant Society.</p>
+            <p>As for the puniſhment hereafter; if the Per<g ref="char:EOLhyphen"/>jurers be common Rogues, and Villains, their Conſciences, as well as their hands, are ſea<g ref="char:EOLhyphen"/>red with a hot Iron; and they never trou<g ref="char:EOLhyphen"/>ble their heads, with things which ſeem ſo far off as Eternity. If Bigotted Papiſts, they are ſo far from fearing puniſhment, that they expect Rewards for ſuch meritorious Service; and ſo theſe two ſorts of perſons, make no diffi<g ref="char:EOLhyphen"/>culty of ſwearing any thing, which carries a<g ref="char:EOLhyphen"/>long with it the Face of a probability; and the aſſurance of a preſent, or hopes of a future Ad<g ref="char:EOLhyphen"/>vantage.</p>
+            <p>Thus then, it appearing, that where Con<g ref="char:EOLhyphen"/>ſcience of Oaths binds not at all, the fear of future Puniſhment is nothing, and while the puniſhment here, of willfull Perjury in Capi<g ref="char:EOLhyphen"/>tal Caſes, is ſo diſproportionable to the great<g ref="char:EOLhyphen"/>neſſe
+<pb n="8" facs="tcp:93154:6"/>
+               <!-- PDF PAGE 8 -->of the Crime, I appeal to your ſelves, whether you can believe your ſelves ſafe, any longer then your mortal Enemies are willing to let you be ſo.</p>
+            <p>Our Laws are defective, in the point of puniſhing Perjury; and the Lives of Honeſt Men are too ſlenderly guarded againſt it, (if they be guarded at all) lying expoſed to the Rapine or Revenge of any two Rogues or Villains, who have wicked Wit enough to make a Combination, and to lay their Lyes cloſe together.</p>
+            <p>I ſpeak this in relation only to the future, for let them be never ſo Honeſt Men, who are come in already, yet if a Door be ſet o<g ref="char:EOLhyphen"/>pen, it may let in another ſort of men among them.</p>
+            <p>Therefore as you value the Preſervation of the King, and the Government, and the Pro<g ref="char:EOLhyphen"/>teſtant Religion, As you value your own Lives, and the Conſervation of your Fami<g ref="char:EOLhyphen"/>lies, and the Perpetuating your Good Names and Fames to Poſterity; If you would be
+<pb n="9" facs="tcp:93154:6"/>
+               <!-- PDF PAGE 8 -->Eſteemed through the Chriſtian World (as doubtleſſe you deſerve) a Wiſe, Juſt, and a Loyall Parliament, let me beſeech you to find out a preſent Way, to prevent willfull Per<g ref="char:EOLhyphen"/>jury in Capitall Caſes; and to take care, that it be puniſh'd, in ſuch an exquiſit manner, as the greatneſs of the Occaſion, and the hai<g ref="char:EOLhyphen"/>nouſneſſe of the Offence does deſerve. Other<g ref="char:EOLhyphen"/>wiſe you are never likely to know, who are re<g ref="char:EOLhyphen"/>all Traytors, nor how ſoon ſome of you that are Innocent, may be brought into the num<g ref="char:EOLhyphen"/>ber. I pray God Almighty bleſs his Majeſty with long Life, and bleſs your Proceedings with as much Succeſs as you deſire; the ſame tending allways to the Glory of God, and the laſting Peace, and Proſperity of the King and his Kingdomes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:93154:7"/>
+            <!-- PDF PAGE 9 -->
+            <pb facs="tcp:93154:7"/>
+            <!-- PDF PAGE 9 -->
+            <head>
+               <hi>Poſtſcript,</hi> 
+               <date>March 15. 1680/1.</date>
+            </head>
+            <p>THis Paper was Prepared in <hi>November</hi> laſt, and Intended then to be Preſent<g ref="char:EOLhyphen"/>ed to the Speaker of the Honourable Houſe of Commons, but having ſlipp'd That Oc<g ref="char:EOLhyphen"/>caſion, I have Now Expos'd it to the Pub<g ref="char:EOLhyphen"/>lique, as a Seaſonable Diſcharge of my Con<g ref="char:EOLhyphen"/>ſcience and Duty.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
